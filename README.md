@@ -1,3 +1,4 @@
+![logo](repo:jhayash2112-afk/my-first-repo png)
 <h1 align="center">Hi 👋, I'm YASH JHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent...
